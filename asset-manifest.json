@@ -1,7 +1,7 @@
 {
   "main.css": "/SweatCheck/static/css/main.f90fd3cf.chunk.css",
-  "main.js": "/SweatCheck/static/js/main.98027cab.chunk.js",
-  "main.js.map": "/SweatCheck/static/js/main.98027cab.chunk.js.map",
+  "main.js": "/SweatCheck/static/js/main.c8ba4f0f.chunk.js",
+  "main.js.map": "/SweatCheck/static/js/main.c8ba4f0f.chunk.js.map",
   "static/css/1.3ee4559a.chunk.css": "/SweatCheck/static/css/1.3ee4559a.chunk.css",
   "static/js/1.f8720af5.chunk.js": "/SweatCheck/static/js/1.f8720af5.chunk.js",
   "static/js/1.f8720af5.chunk.js.map": "/SweatCheck/static/js/1.f8720af5.chunk.js.map",
@@ -12,6 +12,6 @@
   "static/css/main.f90fd3cf.chunk.css.map": "/SweatCheck/static/css/main.f90fd3cf.chunk.css.map",
   "static/css/1.3ee4559a.chunk.css.map": "/SweatCheck/static/css/1.3ee4559a.chunk.css.map",
   "index.html": "/SweatCheck/index.html",
-  "precache-manifest.74461be283080d6de498f52dd20925c1.js": "/SweatCheck/precache-manifest.74461be283080d6de498f52dd20925c1.js",
+  "precache-manifest.3e28261f770f589b35585099acf8fee8.js": "/SweatCheck/precache-manifest.3e28261f770f589b35585099acf8fee8.js",
   "service-worker.js": "/SweatCheck/service-worker.js"
 }
