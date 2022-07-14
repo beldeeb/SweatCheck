@@ -4,7 +4,7 @@ import {sessionService} from 'redux-react-session';
 //the remote endpoint and local
 const remoteUrl = "https://sweatcheck.herokuapp.com/";
 const localUrl = "http://localhost:3000/";
-const currentUrl = localUrl;
+const currentUrl = remoteUrl;
 
 export const loginUser = (
     credentials, 
